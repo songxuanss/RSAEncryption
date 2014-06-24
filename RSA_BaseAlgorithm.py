@@ -2,7 +2,7 @@ __author__ = 'songxuanss'
 import random
 
 
-'''miller robin算法实现，质数测试
+'''miller robin prime test, implementation
 '''
 def decompose(n):
    exponentOfTwo = 0
